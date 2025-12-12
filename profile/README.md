@@ -7,7 +7,7 @@
 | Wishbringer  |     Z0 |      69 | 850920 | j2.zil         |    27 |        0 |      0 |
 | [Zork I](https://github.com/the-zil-reanimation/zork1)   |     Z1 |     119 | 880429 | zork1.zil      |    26 |        2 |      0 |
 | [Zork II](https://github.com/the-zil-reanimation/zork2)      |     Z2 |      63 | 860811 | zork2.zil      |    26 |        0 |      1 |
-| Zork III     |     Z3 |      25 | 860811 | zork3.zil      |    26 |        0 |      0 |
+| [Zork III](https://github.com/the-zil-reanimation/zork3)     |     Z3 |      25 | 860811 | zork3.zil      |    26 |        0 |      0 |
 | Enchanter    |     Z4 |      29 | 860820 | z4.zil         |    19 |        1 |      0 |
 | Sorcerer     |     Z5 |      18 | 860904 | sorcerer.zil   |    25 |        1 |      1 |
 | Spellbreaker |     Z6 |      87 | 860904 | z6.zil         |    45 |        0 |      0 |
