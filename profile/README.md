@@ -13,4 +13,4 @@
 | Spellbreaker |     Z6 |      87 | 860904 | z6.zil         |    45 |        0 |      0 |
 | Trinity      |     Z7 |      15 | 870628 | tr.zil         |    26 |        1 |      2 |
 | Beyond Zork  |     Z8 |      60 | 880610 | z.zil          |     0 |        1 |      1 |
-| Zork Zero    |     Z9 |     393 | 890714 | zork0.zil      |   too |     many | errors |
+| Zork Zero    |     Z9 |     393 | 890714 | zork0.zil      |     - |        - |    101 |
