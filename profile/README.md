@@ -26,3 +26,13 @@
 | Planetfall   |     S3 |      39 | 880501 | planetfall.zil |     1 |        0 |      1 |
 | HHGG         |     S4 |      60 | 861002 | s4.zil         |    30 |        0 |      0 |
 | AMFV         |     S5 |      79 | 851122 | s5.zil         |    19 |        0 |      0 |
+
+**Mystery**
+
+| Name         | Code   | Release | Serial | Compiler Input | Infos | Warnings | Errors |
+|:------------ |:------:|:-------:|:------:|:-------------- |:-----:|:--------:|:------:|
+| Deadline     |     M1 |      28 | 850129 | deadline.zil   |    37 |        0 |      1 |
+| The Witness  |     M2 |      23 | 840925 | witness.zil    |     2 |        0 |      1 |
+| Suspect      |     M3 |      18 | 850222 | m3.zil         |     0 |        0 |      2 |
+| Ballyhoo     |     M4 |      99 | 861014 | m4.zil         |    31 |        3 |      1 |
+| Moonmist     |     M5 |      13 | 880501 | m5.zil         |    78 |        0 |      0 |
