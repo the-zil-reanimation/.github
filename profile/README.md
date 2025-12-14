@@ -16,3 +16,13 @@
 | Trinity      |     Z7 |      15 | 870628 | tr.zil         |    26 |        1 |      2 |
 | Beyond Zork  |     Z8 |      60 | 880610 | z.zil          |     0 |        1 |      1 |
 | Zork Zero    |     Z9 |     393 | 890714 | zork0.zil      |     - |        - |    101 |
+
+**Science Fiction**
+
+| Name         | Code   | Release | Serial | Compiler Input | Infos | Warnings | Errors |
+|:------------ |:------:|:-------:|:------:|:-------------- |:-----:|:--------:|:------:|
+| Starcross    |     S1 |      18 | 830114 | starcross.zil  |    27 |        1 |      1 |
+| Suspended    |     S2 |       8 | 850521 | suspended.zil  |     1 |        0 |      4 |
+| Planetfall   |     S3 |      39 | 880501 | planetfall.zil |     1 |        0 |      1 |
+| HHGG         |     S4 |      60 | 861002 | s4.zil         |    30 |        0 |      0 |
+| AMFV         |     S5 |      79 | 851122 | s5.zil         |    19 |        0 |      0 |
