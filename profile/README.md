@@ -36,3 +36,13 @@
 | Suspect      |     M3 |      18 | 850222 | m3.zil         |     0 |        0 |      2 |
 | Ballyhoo     |     M4 |      99 | 861014 | m4.zil         |    31 |        3 |      1 |
 | Moonmist     |     M5 |      13 | 880501 | m5.zil         |    78 |        0 |      0 |
+
+**Tales of Adventure**
+
+| Name             | Code   | Release | Serial | Compiler Input | Infos | Warnings | Errors |
+|:---------------- |:------:|:-------:|:------:|:-------------- |:-----:|:--------:|:------:|
+| Infidel          |     A1 |      22 | 840522 | infidel.zil    |     1 |        0 |      1 |
+| Seastalker       |     A2 |      18 | 850919 | j1.zil         |    36 |        0 |      2 |
+| Cutthroats       |     A3 |      25 | 840917 | toa.zil        |     0 |        0 |      1 |
+| Hollywood Hijinx |     A4 |      37 | 861215 | anthill.zil    |     0 |        0 |      1 |
+| Shogun           |     A5 |     322 | 890706 | a5.zil         |     - |        - |    101 |
