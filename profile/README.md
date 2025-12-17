@@ -46,3 +46,11 @@
 | Cutthroats       |     A3 |      25 | 840917 | toa.zil        |     0 |        0 |      1 |
 | Hollywood Hijinx |     A4 |      37 | 861215 | anthill.zil    |     0 |        0 |      1 |
 | Shogun           |     A5 |     322 | 890706 | a5.zil         |     - |        - |    101 |
+
+**Comedy**
+
+| Name              | Code   | Release | Serial | Compiler Input | Infos | Warnings | Errors |
+|:----------------- |:------:|:-------:|:------:|:-------------- |:-----:|:--------:|:------:|
+| Leather Goddesses |     C1 |      59 | 860730 | x1.zil         |     8 |        0 |      1 |
+| Bureaucracy       |     C2 |     160 | 880521 | b.zil          |     0 |        1 |      1 |
+| Nord and Bert     |     C3 |      20 | 870722 | j3.zil         |    14 |        0 |    101 |
