@@ -54,3 +54,9 @@
 | Leather Goddesses |     C1 |      59 | 860730 | x1.zil         |     8 |        0 |      1 |
 | Bureaucracy       |     C2 |     160 | 880521 | b.zil          |     0 |        1 |      1 |
 | Nord and Bert     |     C3 |      20 | 870722 | j3.zil         |    14 |        0 |    101 |
+
+**Horror**
+
+| Name               | Code   | Release | Serial | Compiler Input | Infos | Warnings | Errors |
+|:------------------ |:------:|:-------:|:------:|:-------------- |:-----:|:--------:|:------:|
+| The Lurking Horror | H1     |     221 | 870918 | h1.zil         |    49 |        0 |      0 |
