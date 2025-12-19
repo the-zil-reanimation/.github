@@ -1,11 +1,11 @@
-**Build Statistics**
+**Current Build Statistics**
 
 **The 35 Canonical Games**
 
 | Name               | Release | Serial | Compiler Input | Infos | Warnings | Errors |
 |:------------------ |:-------:|:------:|:-------------- |:-----:|:--------:|:------:|
-| [Zork I](https://github.com/the-zil-reanimation/zork1)  |     119 | 880429 | zork1.zil      |    26 |        2 |      0 |
-| [Zork II](https://github.com/the-zil-reanimation/zork2) |      63 | 860811 | zork2.zil      |    26 |        0 |      1 |
+| [Zork I](https://github.com/the-zil-reanimation/zork1)  |     119 | 880429 | zork1.zil      |    26 |        0 |      0 |
+| [Zork II](https://github.com/the-zil-reanimation/zork2) |      63 | 860811 | zork2.zil      |    26 |        0 |      0 |
 | Deadline           |      28 | 850129 | deadline.zil   |    37 |        0 |      1 |
 | [Zork III](https://github.com/the-zil-reanimation/zork3) |      25 | 860811 | zork3.zil      |    26 |        0 |      0 |
 | Starcross          |      18 | 830114 | starcross.zil  |    27 |        1 |      1 |
