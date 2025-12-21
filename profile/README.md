@@ -44,8 +44,8 @@
 
 | Name                                              | Release | Serial | Compiler Input | Infos | Warnings | Errors |
 |:------------------------------------------------- |:-------:|:------:|:-------------- |:-----:|:--------:|:------:|
-| The Hitchhiker's Guide to the Galaxy (Solid Gold) |       - |      - | -              |    30 |        0 |      0 |
-| Leather Goddesses of Phobos (Solid Gold)          |       - |      - | -              |     8 |        0 |      1 |
-| Planetfall (Solid Gold)                           |       - |      - | -              |     1 |        0 |      1 |
-| Wishbringer (Solid Gold)                          |       - |      - | -              |    27 |        0 |      0 |
-| Zork I (Solid Gold)                               |       - |      - | -              |    26 |        2 |      0 |
+| The Hitchhiker's Guide to the Galaxy (Solid Gold) |       - |      - | -              |     - |        - |      - |
+| Leather Goddesses of Phobos (Solid Gold)          |       - |      - | -              |     - |        - |      - |
+| Planetfall (Solid Gold)                           |       - |      - | -              |     - |        - |      - |
+| Wishbringer (Solid Gold)                          |       - |      - | -              |     - |        - |      - |
+| Zork I (Solid Gold)                               |       - |      - | -              |     - |        - |      - |
