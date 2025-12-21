@@ -35,7 +35,7 @@
 | Trinity                              |      15 | 870628 | tr.zil         |    26 |        1 |      2 |
 | Wishbringer                          |      69 | 850920 | j2.zil         |    27 |        0 |      0 |
 | The Witness                          |      23 | 840925 | witness.zil    |     2 |        0 |      1 |
-| Zork I                               |     119 | 880429 | zork1.zil      |    26 |        2 |      0 |
+| [Zork I](https://github.com/the-zil-reanimation/zork-1) |     119 | 880429 | zork1.zil      |    26 |        2 |      0 |
 | Zork II                              |      63 | 860811 | zork2.zil      |    26 |        0 |      1 |
 | Zork III                             |      25 | 860811 | zork3.zil      |    26 |        0 |      0 |
 | Zork Zero                            |     393 | 890714 | zork0.zil      |     - |        - |    101 |
