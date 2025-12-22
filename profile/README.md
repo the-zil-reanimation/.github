@@ -48,4 +48,4 @@
 | Leather Goddesses of Phobos (Solid Gold)          |       - |      - | -              |     - |        - |      - |
 | Planetfall (Solid Gold)                           |       - |      - | -              |     - |        - |      - |
 | Wishbringer (Solid Gold)                          |       - |      - | -              |     - |        - |      - |
-| Zork I (Solid Gold)                               |       - |      - | -              |     - |        - |      - |
+| [Zork I (Solid Gold)](https://github.com/the-zil-reanimation/zork-1-sg) |       - |      - | -              |     - |        - |      - |
