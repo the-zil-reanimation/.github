@@ -4,7 +4,7 @@
 
 | Name                                 | Release | Serial | Compiler Input | Infos | Warnings | Errors |
 |:------------------------------------ |:-------:|:------:|:-------------- |:-----:|:--------:|:------:|
-| A Mind Forever Voyaging              |      79 | 851122 | s5.zil         |    19 |        0 |      0 |
+| [A Mind Forever Voyaging](https://github.com/the-zil-reanimation/amfv) |      79 | 851122 | s5.zil         |    29 |        0 |      0 |
 | Arthur                               |       - |      - | -              |     - |        - |      - |
 | Ballyhoo                             |      99 | 861014 | m4.zil         |    31 |        3 |      1 |
 | Beyond Zork                          |      60 | 880610 | z.zil          |     0 |        1 |      1 |
